@@ -1,0 +1,5 @@
+2.a) By comparing the mean and highest glucose levels between the sample and the population, the sample's mean glucose falls slightly below the population mean, indicating a tendency toward lower glucose levels in the sample. However, the maximum glucose value in the sample is similar to that of the population, suggesting that extreme values are consistent across both groups.
+
+2.b)By examining the 98th percentile of BMI, I found that both the sample and population exhibit comparable high BMI values. This indicates a consistency in extreme BMI values between the sample and the broader population, suggesting that individuals with high BMI are represented similarly in both groups.
+
+2.c)By utilizing bootstrap sampling to compare blood pressure statistics between samples and the population, I can observe that the mean, standard deviation, and 95th percentile of blood pressure in the bootstrap samples align closely with those of the population. This suggests that the characteristics of blood pressure within the sample are representative of the broader population, reinforcing the reliability of the sample for inference.
